@@ -1,4 +1,4 @@
-# angular-segmnet
+# angular-segment
 
 AngularJS Segment integration module written in ES6.
 
